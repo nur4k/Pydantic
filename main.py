@@ -1,3 +1,5 @@
+#https://www.youtube.com/watch?v=dOO3GmX6ukU
+
 from pydantic import BaseModel, ValidationError, Field, validator, root_validator
 
 
